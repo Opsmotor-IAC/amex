@@ -9,3 +9,5 @@ spring:
     show-sql: true
 server:
   port: 9000
+user:admin
+password:AHfedfd3ddfkgsf
